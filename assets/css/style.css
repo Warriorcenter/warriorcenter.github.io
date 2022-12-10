@@ -149,17 +149,17 @@ body {
       color: #444; }
 
 .btn-success {
-  background-color: #77a38f;
-  border-color: #77a38f; }
+  background-color: #00ab9f;
+  border-color: #00ab9f; }
   .btn-success:hover {
-    background-color: #77a38f !important;
-    border-color: #77a38f !important; }
+    background-color: #00ab9f !important;
+    border-color: #00ab9f !important; }
   .btn-success:active {
-    background-color: #77a38f !important;
-    border-color: #77a38f !important; }
+    background-color: #00ab9f !important;
+    border-color: #00ab9f !important; }
   .btn-success:focus {
-    background-color: #77a38f !important;
-    border-color: #77a38f !important;
+    background-color: #00ab9f !important;
+    border-color: #00ab9f !important;
     box-shadow: none !important; }
 
 .btn-info {
@@ -243,7 +243,7 @@ header {
 
 .small-menu {
   float: right;
-  color: #77a38f;
+  color: #00ab9f;
   font-size: 32px;
   margin-top: 19px;
   margin-right: 12px; }
@@ -414,8 +414,7 @@ header {
   background-attachment: fixed;
   background-size: cover; }
   .doctor-message .inner-lay {
-    background-color: #2f4a3f;
-    opacity: 90%;
+    background-color: rgba(0, 171, 159, 0.9);
     padding: 50px;
     padding-bottom: 0px;
     color: #FFF; }
@@ -561,7 +560,7 @@ header {
 
 .gallery-title {
   font-size: 36px;
-  color: #77a38f;
+  color: #00ab9f;
   text-align: center;
   font-weight: 500;
   margin-bottom: 70px; }
@@ -572,23 +571,23 @@ header {
   width: 7.5%;
   left: 46.5%;
   height: 45px;
-  border-bottom: 1px solid #77a38f; }
+  border-bottom: 1px solid #00ab9f; }
 
 .filter-button {
   font-size: 18px;
-  border: 1px solid #77a38f;
+  border: 1px solid #00ab9f;
   border-radius: 5px;
   text-align: center;
-  color: #77a38f;
+  color: #00ab9f;
   margin-bottom: 30px; }
 
 .filter-button:hover {
   font-size: 18px;
-  border: 1px solid #77a38f;
+  border: 1px solid #00ab9f;
   border-radius: 5px;
   text-align: center;
   color: #ffffff;
-  background-color: #77a38f; }
+  background-color: #00ab9f; }
 
 .btn-default:active .filter-button:active {
   background-color: #a5238e;
