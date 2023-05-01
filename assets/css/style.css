@@ -410,9 +410,11 @@ header {
 
 /* ===================================== Doctor Say CSS ================================== */
 .doctor-message {
+  
   background-image: url("../images/slider/slider-3.jpg");
   background-attachment: fixed;
   background-size: cover; }
+  
   .doctor-message .inner-lay {
     background-color: rgba(0, 171, 159, 0.9);
     padding: 50px;
@@ -438,6 +440,25 @@ header {
     text-indent: 20px; }
   .doctor-message .doc-det h4 {
     margin-top: 30px; }
+    
+
+
+    .doctor-message .doc-dets h2 {
+      text-align: end;
+      font-size: 42px;
+      margin-bottom: 0px; }
+    .doctor-message .doc-dets span {
+      text-align: end;
+      font-weight: 600;
+      margin-top: -5px; }
+    .doctor-message .doc-dets p {
+      text-align: end;
+      margin-top: 30px;
+      font-size: 18px;
+      text-indent: 20px; }
+    .doctor-message .doc-dets h4 {
+      text-align: end;
+      margin-top: 30px; }
 
 /* ===================================== Mission Vision CSS ================================== */
 .mosion-vision {
