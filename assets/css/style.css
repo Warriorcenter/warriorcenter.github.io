@@ -467,7 +467,11 @@ header {
   @media screen and (max-width: 740px) {
     .mosion-vision {
       padding: 30px 10px; } }
+      .mosion-vision .lalo{
+        list-style-type: circle;
+      }
   .mosion-vision .single-dd {
+    
     background-color: #f6f4f6;
     padding: 30px;
     border-radius: 5px; }
