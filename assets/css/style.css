@@ -149,17 +149,17 @@ body {
       color: #444; }
 
 .btn-success {
-  background-color: #00ab9f;
-  border-color: #00ab9f; }
+  background-color: #77A38F;
+  border-color: #77A38F; }
   .btn-success:hover {
-    background-color: #00ab9f !important;
-    border-color: #00ab9f !important; }
+    background-color: #77A38F !important;
+    border-color: #77A38F !important; }
   .btn-success:active {
-    background-color: #00ab9f !important;
-    border-color: #00ab9f !important; }
+    background-color: #77A38F !important;
+    border-color: #77A38F !important; }
   .btn-success:focus {
-    background-color: #00ab9f !important;
-    border-color: #00ab9f !important;
+    background-color: #77A38F !important;
+    border-color: #77A38F !important;
     box-shadow: none !important; }
 
 .btn-info {
@@ -243,7 +243,7 @@ header {
 
 .small-menu {
   float: right;
-  color: #00ab9f;
+  color: #77A38F;
   font-size: 32px;
   margin-top: 19px;
   margin-right: 12px; }
@@ -464,20 +464,20 @@ header {
 .mosion-vision {
   padding: 50px;
   background-color: #FFF; }
-  @media screen and (max-width: 940px) {
+  @media screen and (max-width: 740px) {
     .mosion-vision {
       padding: 30px 10px; } }
   .mosion-vision .single-dd {
     background-color: #f6f4f6;
     padding: 30px;
     border-radius: 5px; }
-    @media screen and (max-width: 991px) {
+    @media screen and (max-width: 791px) {
       .mosion-vision .single-dd {
         margin-bottom: 30px; } }
     .mosion-vision .single-dd p {
-      font-size: 1.1rem;
+      font-size: 1rem;
       text-indent: 20px;
-      text-align: justify; }
+      text-align: left; }
     .mosion-vision .single-dd .btn {
       float: right; }
 
@@ -581,7 +581,7 @@ header {
 
 .gallery-title {
   font-size: 36px;
-  color: #00ab9f;
+  color: #77A38F;
   text-align: center;
   font-weight: 500;
   margin-bottom: 70px; }
@@ -592,23 +592,23 @@ header {
   width: 7.5%;
   left: 46.5%;
   height: 45px;
-  border-bottom: 1px solid #00ab9f; }
+  border-bottom: 1px solid #77A38F; }
 
 .filter-button {
   font-size: 18px;
-  border: 1px solid #00ab9f;
+  border: 1px solid #77A38F;
   border-radius: 5px;
   text-align: center;
-  color: #00ab9f;
+  color: #77A38F;
   margin-bottom: 30px; }
 
 .filter-button:hover {
   font-size: 18px;
-  border: 1px solid #00ab9f;
+  border: 1px solid #77A38F;
   border-radius: 5px;
   text-align: center;
   color: #ffffff;
-  background-color: #00ab9f; }
+  background-color: #77A38F; }
 
 .btn-default:active .filter-button:active {
   background-color: #a5238e;
