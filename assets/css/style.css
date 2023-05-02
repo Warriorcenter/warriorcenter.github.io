@@ -416,7 +416,7 @@ header {
   background-size: cover; }
   
   .doctor-message .inner-lay {
-    background-color: rgba(0, 171, 159, 0.9);
+    background-color: #fae3dd;
     padding: 50px;
     padding-bottom: 0px;
     color: #FFF; }
