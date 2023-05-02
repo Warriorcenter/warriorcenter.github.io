@@ -488,7 +488,7 @@ header {
 /* ===================================== Session Type CSS ================================== */
 .sesion-type {
   padding: 50px; }
-  @media screen and (max-width: 940px) {
+  @media screen and (max-height: 340px) {
     .sesion-type {
       padding: 30px 10px; } }
   .sesion-type .single-sess {
@@ -497,7 +497,8 @@ header {
     background-color: #FFF;
     margin-bottom: 30px; }
     .sesion-type .single-sess img {
-      width: 100%; }
+      width: 100%;
+    height: 13em;}
     .sesion-type .single-sess p {
       padding: 10px;
       font-family: "mouse-500", Arial, Helvetica, sans-serif;
